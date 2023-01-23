@@ -3,7 +3,7 @@ This repository contains all the code used to conduct numerical experiments in m
 the Degree of Master of Philosophy in Mathematical Finance at the University of the Cape Town.
 
 ```
-@mastersthesis{citekey,
+@mastersthesis{phytides2023neuralsdes,
   author  = "Alexio Phytides",
   title   = "No-Arbitrage Option Pricing with Neural SDEs",
   school  = "University of the Cape Town",
