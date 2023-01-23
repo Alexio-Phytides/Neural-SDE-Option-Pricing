@@ -4,9 +4,9 @@ the Degree of Master of Philosophy in Mathematical Finance at the University of 
 
 ```
 @mastersthesis{citekey,
-  author  = "",
-  title   = "",
-  school  = "",
-  year    = ""
+  author  = "Alexio Phytides",
+  title   = "No-Arbitrage Option Pricing with Neural SDEs",
+  school  = "University of the Cape Town",
+  year    = "2023"
 }
 ```
